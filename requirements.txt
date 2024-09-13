@@ -1,3 +1,7 @@
 xmltodict
 pandas
 nltk
+matplotlib
+plotly
+transformers
+datasets
