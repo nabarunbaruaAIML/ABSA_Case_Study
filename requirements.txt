@@ -5,3 +5,8 @@ matplotlib
 plotly
 transformers
 datasets
+accelerate
+evaluate
+seqeval
+wandb
+python-dotenv

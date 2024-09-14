@@ -1,2 +1,6 @@
 artifacts/dataset/
 artifacts/dataset_NER/
+artifacts/dataset_Category/
+artifacts/models/
+.env
+wandb/
