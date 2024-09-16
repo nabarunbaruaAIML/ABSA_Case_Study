@@ -10,3 +10,5 @@ evaluate
 seqeval
 wandb
 python-dotenv
+sentence-transformers
+sentencepiece
