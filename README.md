@@ -70,3 +70,6 @@ Open the file .env using command vi and add WANDB Key. Vist WANDB website for th
 WANDB_API_KEY = "MY WANDB API KEY"
 ```
 
+## Use Python Note for executing and understanding Project
+
+- Case_Study.ipynb
